@@ -1,0 +1,1 @@
+import"./chunk-2H7K6JAD.js";var t=[{path:"",redirectTo:"",pathMatch:"full"},{path:"",loadComponent:()=>import("./chunk-CYBUPGMA.js").then(o=>o.HomeComponent)},{path:"projects",loadComponent:()=>import("./chunk-FEI7EMGZ.js").then(o=>o.ProjectsComponent)},{path:"about",loadComponent:()=>import("./chunk-T7R6GX2D.js").then(o=>o.AboutComponent)}];export{t as routes};
